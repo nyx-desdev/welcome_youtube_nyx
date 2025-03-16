@@ -1,56 +1,192 @@
-# How to Boil an Egg 🥚
+# How to Ride a Motorcycle 🏍️
 
-A simple guide to making the perfect boiled egg.
+A comprehensive guide for beginners learning to ride a motorcycle safely.
 
-## What You'll Need
+## Prerequisites
 
-- Fresh eggs
-- Pot with lid
-- Water
-- Timer
-- Slotted spoon
-- Bowl of ice water (for hard-boiled eggs)
+- Valid motorcycle license/endorsement
+- Proper safety gear
+- Basic understanding of traffic rules
+- Access to a motorcycle
+- Insurance coverage
 
-## Steps
+## Essential Safety Gear 🛡️
 
-1. **Choose Your Eggs**
-   - Use eggs that have been in your fridge for at least a week
-   - Take eggs out of refrigerator 30 minutes before cooking (room temperature eggs are less likely to crack)
+1. **Helmet** (DOT/ECE certified)
+   - Full-face recommended
+   - Proper fit is crucial
+   - Clear visor for day
+   - Anti-fog coating
 
-2. **Prepare Your Pot**
-   - Place eggs in a single layer at the bottom of your pot
-   - Cover eggs with cold water (about 1 inch above the eggs)
-   - Place pot on stove
+2. **Protective Clothing**
+   - Motorcycle jacket (armored)
+   - Riding pants with padding
+   - Over-the-ankle boots
+   - Motorcycle gloves
+   - High-visibility gear
 
-3. **Cooking Process**
-   - Turn heat to high and bring water to a rolling boil
-   - Once boiling, reduce heat to maintain a gentle boil
+## Basic Motorcycle Controls
 
-4. **Timing Guide**
-   - Soft-boiled (runny yolk): 6 minutes
-   - Medium-boiled (slightly firm yolk): 8 minutes
-   - Hard-boiled (fully firm yolk): 10 minutes
+### Primary Controls
+- Throttle (right handlebar grip)
+- Front brake lever (right handlebar)
+- Rear brake pedal (right foot)
+- Clutch lever (left handlebar)
+- Gear shift lever (left foot)
+- Steering handlebar
 
-5. **Ice Bath (for hard-boiled eggs)**
-   - Prepare a bowl of ice water while eggs are cooking
-   - When time is up, transfer eggs immediately to ice bath
-   - Let them cool for at least 5 minutes
+### Secondary Controls
+- Engine cut-off switch
+- Turn signals
+- Horn
+- High/low beam switch
+- Starter button
 
-6. **Peeling**
-   - Gently tap egg on counter to crack shell
-   - Roll egg to create more cracks
-   - Peel under running water for easier shell removal
+## Step-by-Step Riding Guide
 
-## Tips for Perfect Results
+### 1. Pre-ride Check (T-CLOCS)
+- **T**ires & Wheels
+- **C**ontrols
+- **L**ights
+- **O**il & Fluids
+- **C**hassis
+- **S**tands
 
-- Don't overcook - this causes the grey ring around the yolk
-- Fresh eggs are harder to peel than slightly older ones
-- Adding a teaspoon of vinegar to the water can help prevent egg whites from leaking if an egg cracks
-- Adding a pinch of salt can make eggs easier to peel
+### 2. Starting the Motorcycle
+1. Mount the bike from the left side
+2. Insert key and turn to ON position
+3. Ensure bike is in neutral (green light)
+4. Pull in clutch lever
+5. Press starter button
+6. Let engine warm up briefly
 
-## Storage
+### 3. Moving Off
+1. Hold clutch lever in
+2. Shift into first gear
+3. Slowly release clutch while adding gentle throttle
+4. Find "friction zone" where bike begins to move
+5. Gradually add more throttle as clutch releases
 
-- Unpeeled hard-boiled eggs can be stored in the refrigerator for up to 1 week
-- Peeled eggs should be eaten within 1 day
+### 4. Basic Riding Skills
 
-Enjoy your perfectly boiled eggs! 🍳
+#### Shifting Gears (Up)
+1. Roll off throttle
+2. Pull in clutch
+3. Lift shift lever up
+4. Release clutch while adding throttle
+
+#### Shifting Gears (Down)
+1. Roll off throttle
+2. Pull in clutch
+3. Press shift lever down
+4. Release clutch smoothly
+
+#### Braking
+1. Roll off throttle
+2. Apply both brakes smoothly
+3. Downshift as needed
+4. Keep bike straight while stopping
+
+#### Turning
+1. Look through the turn
+2. Slow down before the turn
+3. Press handlebar in direction of turn
+4. Maintain steady throttle through turn
+5. Look where you want to go
+
+## Advanced Skills
+
+### Counter-steering
+- Push right handlebar = lean/turn right
+- Push left handlebar = lean/turn left
+- Required at speeds above 10-15 mph
+
+### Emergency Braking
+1. Squeeze clutch
+2. Apply both brakes firmly
+3. Keep motorcycle straight
+4. Look where you want to go
+5. Downshift as needed
+
+## Common Mistakes to Avoid
+
+1. **Target Fixation**
+   - Look where you want to go, not at obstacles
+
+2. **Poor Speed Management**
+   - Enter turns slowly
+   - Accelerate smoothly out of turns
+
+3. **Improper Lane Position**
+   - Stay visible to others
+   - Maintain escape routes
+   - Avoid blind spots
+
+## Weather Considerations
+
+### Rain
+- Reduce speed
+- Smooth inputs
+- Increase following distance
+- Watch for slick surfaces
+
+### Wind
+- Lean into strong winds
+- Watch for wind barriers
+- Be prepared for gusts
+- Maintain firm grip
+
+## Emergency Situations
+
+### Skid Recovery
+1. Stay calm
+2. Look where you want to go
+3. Don't fight the skid
+4. Gentle inputs only
+
+### Obstacle Avoidance
+1. Look where you want to go
+2. Press handlebar quickly
+3. Return to original path
+4. Maintain throttle control
+
+## Maintenance Tips
+
+1. **Regular Checks**
+   - Tire pressure
+   - Chain tension
+   - Oil level
+   - Brake fluid
+   - Light operation
+
+2. **Periodic Maintenance**
+   - Follow owner's manual
+   - Keep maintenance log
+   - Address issues promptly
+   - Professional servicing
+
+## Additional Resources 📚
+
+- Motorcycle Safety Foundation courses
+- Local riding groups
+- Advanced riding courses
+- Online tutorials
+- Professional instruction
+
+## Safety Tips 🚦
+
+1. **Always**
+   - Wear proper gear
+   - Stay visible
+   - Maintain escape routes
+   - Practice regularly
+
+2. **Never**
+   - Ride under influence
+   - Exceed skill limits
+   - Ignore maintenance
+   - Take unnecessary risks
+
+Remember: Riding a motorcycle requires constant practice and attention to safety. Start slowly, practice regularly, and always ride within your skill level. 🏍️
+
+Stay safe and enjoy the ride! 🛣️
